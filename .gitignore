@@ -1,0 +1,9 @@
+elpa
+*~
+emacs.custom.el
+*.sqlite
+ido.last
+projects
+smex-items
+transient
+projectile*
